@@ -1,4 +1,4 @@
-# Image to Sketch Converter ✏️
+# Image to Sketch Converter
 
 A lightweight, beginner-friendly Python mini-project that converts any digital photograph into a realistic pencil sketch using **OpenCV** and **NumPy**.
 
